@@ -43,7 +43,6 @@ function solve2(fish) {
     });
   }
 
-  console.log(memo);
   let total = 0;
   fish.forEach(f => {
     total+=memo[f];
