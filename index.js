@@ -1,1 +1,1 @@
-const { solution1, solution2 } = require('./12/solve')
+const { solution1, solution2 } = require('./15/solve')
